@@ -1,9 +1,11 @@
-# Table-Extractor-Model
+## Table-Extractor-Model
 
 
 Table detection and structure recognition model deployed on streamlit python.
 
 1) Download the Zip file and extract contents/ pull this Repo.
+
+
 
 2) Open any IDE and first download the requirements text file.
 
@@ -11,7 +13,7 @@ Table detection and structure recognition model deployed on streamlit python.
    pip install -r requirements.txt
    ```
 
-  Make sure you are in the integrated terminal where the file is located.
+     Make sure you are in the integrated terminal where the file is located.
 
 3) Then run the app.py file
    ```
